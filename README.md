@@ -1,9 +1,9 @@
 # Screenshots
 
-<img style="margin-right: 30px" height="480px" src="raw/1.png"><img style="margin-right: 30px" height="480px" src="raw/2.png"><img style="margin-right: 30px" height="480px" src="raw/3.png">
-<img style="margin-right: 30px" height="480px" src="raw/4.png"><img style="margin-right: 30px" height="480px" src="raw/5.png"><img style="margin-right: 30px" height="480px" src="raw/6.png">
-<img style="margin-right: 30px" height="480px" src="raw/7.png"><img style="margin-right: 30px" height="480px" src="raw/8.png"><img style="margin-right: 30px" height="480px" src="raw/9.png">
-<img style="margin-right: 30px" height="480px" src="raw/10.png">
+<img style="margin-right: 30px" align="left" height="480px" src="raw/1.png"><img style="margin-right: 30px" align="left" height="480px" src="raw/2.png"><img style="margin-right: 30px" align="left" height="480px" src="raw/3.png">
+<img style="margin-right: 30px" align="left" height="480px" src="raw/4.png"><img style="margin-right: 30px" align="left" height="480px" src="raw/5.png"><img style="margin-right: 30px" align="left" height="480px" src="raw/6.png">
+<img style="margin-right: 30px" align="left" height="480px" src="raw/7.png"><img style="margin-right: 30px" align="left" height="480px" src="raw/8.png"><img style="margin-right: 30px" align="left" height="480px" src="raw/9.png">
+<img style="margin-right: 30px" align="left" height="480px" src="raw/10.png">
 
 
 Тестовое задание Gallery.
