@@ -1,12 +1,10 @@
 # Screenshots
 
-<img height="480px" src="raw/1.png"><img height="480px" src="raw/2.png"><img height="480px" src="raw/3.png">
-<img height="480px" src="raw/4.png"><img height="480px" src="raw/5.png"><img height="480px" src="raw/6.png">
-<img height="480px" src="raw/7.png"><img height="480px" src="raw/8.png"><img height="480px" src="raw/9.png">
-<img height="480px" src="raw/10.png">
+<img style="margin-right: 30px" height="480px" src="raw/1.png"><img style="margin-right: 30px" height="480px" src="raw/2.png"><img style="margin-right: 30px" height="480px" src="raw/3.png">
+<img style="margin-right: 30px" height="480px" src="raw/4.png"><img style="margin-right: 30px" height="480px" src="raw/5.png"><img style="margin-right: 30px" height="480px" src="raw/6.png">
+<img style="margin-right: 30px" height="480px" src="raw/7.png"><img style="margin-right: 30px" height="480px" src="raw/8.png"><img style="margin-right: 30px" height="480px" src="raw/9.png">
+<img style="margin-right: 30px" height="480px" src="raw/10.png">
 
-
-https://www.figma.com/file/yKp6zEiqNfbBl8CB62M5VN/Untitled?node-id=0%3A1
 
 Тестовое задание Gallery.
 
@@ -20,8 +18,7 @@ https://www.figma.com/file/yKp6zEiqNfbBl8CB62M5VN/Untitled?node-id=0%3A1
 6) Первый таб содержит две вкладки New & Popular:
 7) Второй таб содержит создание фото и выгрузку его на бэк (теги делать не нужно).
    Нужно выводить сразу этот дизайн
-   https://www.figma.com/file/U0oHcjTijoYRdTNJpI1blY/%D0%A2%D0%B5%D1%81%D1%82
-   %D0%BE%D0%B2%D0%BE%D0%B5-Gallery?node-id=761%3A2668
+   https://www.figma.com/file/U0oHcjTijoYRdTNJpI1blY/Тестовое-Gallery?node-id=761%3A886
 8) Третий таб содержит профиль(общее кол-во просмотров можно не делать, общее
    кол-во загруженных фото можно взять с поля “totalItems”, подгружать все загруженные
    фото с бэка для текущего юзера).
@@ -69,7 +66,7 @@ P.S.
 - При нажатии на изображение открывается экран подробной информации об
   изображении, где содержится само изображение, его название и описание.
   http://gallery.dev.webant.ru/api - апи для изображений
-  https://www.figma.com/file/U0oHcjTijoYRdTNJpI1blY/%D0%A2%D0%B5%D1%81%D1%82
+  https://www.figma.com/file/U0oHcjTijoYRdTNJpI1blY/Тестовое-Gallery?node-id=761%3A886
   %D0%BE%D0%B2%D0%BE%D0%B5-Gallery?node-id=761%3A886 - figma
   Будут плюсом:
 - добавить теги (локально или через firebase)
