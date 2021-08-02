@@ -1,9 +1,9 @@
 # Screenshots
 
-<img align="left" style="margin-right: 30px; float: left;" height="480px" src="raw/1.png"><img align="center" style="margin-right: 30px; float: left;" height="480px" src="raw/2.png"><img align="right" style="margin-right: 30px; float: left;" height="480px" src="raw/3.png">
-<img align="left" style="margin-right: 30px; float: left;" height="480px" src="raw/4.png"><img align="center" style="margin-right: 30px; float: left;" height="480px" src="raw/5.png"><img align="right" style="margin-right: 30px; float: left;" height="480px" src="raw/6.png">
-<img align="left" style="margin-right: 30px; float: left;" height="480px" src="raw/7.png"><img align="center" style="margin-right: 30px; float: left;" height="480px" src="raw/8.png"><img align="right" style="margin-right: 30px; float: left;" height="480px" src="raw/9.png">
-<img align="center" style="margin-right: 30px; float: left;" height="480px" src="raw/10.png">
+<img align="left" height="480px" src="raw/1.png"><img align="center" height="480px" src="raw/2.png"><img align="right" height="480px" src="raw/3.png">
+<img align="left" height="480px" src="raw/4.png"><img align="center" height="480px" src="raw/5.png"><img align="right" height="480px" src="raw/6.png">
+<img align="left" height="480px" src="raw/7.png"><img align="center" height="480px" src="raw/8.png"><img align="right" height="480px" src="raw/9.png">
+<img align="center" height="480px" src="raw/10.png">
 
 
 Тестовое задание Gallery.
